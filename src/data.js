@@ -162,7 +162,7 @@ export const listProyek = [
     fullDescription:"A modern and interactive portfolio website designed to showcase my professional journey, projects and achievements. The platform provides visitors with an engaging overview of my work, highlights my capabilities through real-world projects, and serves as a central hub for networking and career opportunities.",
     borderColor: "#10B981",
     gradient: "linear-gradient(180deg, #10B981, #000)",
-    url: "https://github.com/rissss21",
+    url: "https://github.com/Nithishkumar-Thinakaran/Personal-Web-Portfolio",
     dad: "600",
   },
   {

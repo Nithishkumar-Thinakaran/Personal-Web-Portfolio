@@ -20,7 +20,7 @@ const Footer = () => {
         </h1>
 
         {/* Ikon Sosmed - di tengah di mobile */}
-        <div className="flex gap-3 order-2 md:order-none">
+        <div className="flex gap-3 order-2 md:order-none ml-30">
   <a
     href="https://github.com/Nithishkumar-Thinakaran"
     target="_blank"
