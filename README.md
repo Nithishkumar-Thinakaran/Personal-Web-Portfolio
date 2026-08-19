@@ -34,7 +34,7 @@ https://nithishkumar-thinakaran.github.io/portofolio/
 
 * Email: [nithishkumarnk02@gmail.com](mailto:nithishkumarnk02@gmail.com)
 * GitHub: https://github.com/Nithishkumar-Thinakaran
-* LinkedIn: Add your LinkedIn profile URL here
+* LinkedIn: https://www.linkedin.com/in/nithishkumar-1007a025b
 
 ---
 
