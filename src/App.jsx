@@ -154,7 +154,7 @@ function App() {
                 <div className="flex flex-col sm:flex-row items-center sm:justify-between text-center sm:text-left gap-y-8 sm:gap-y-0 mb-4 w-[60%]">
   <div>
     <h1 className="text-3xl md:text-4xl mb-1">
-      10<span className="text-violet-500">+</span>
+      15<span className="text-violet-500">+</span>
     </h1>
     <p>Projects Finished</p>
   </div>
