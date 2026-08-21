@@ -110,7 +110,7 @@ export const listTools = [
     id: 12,
     gambar: Tools5,
     nama: "Github",
-    ket: "Repository",
+    ket: "Repositories",
     dad: "1200",
   },
   {
@@ -146,23 +146,24 @@ export const listTools = [
  
 ];
 
-import Proyek1 from "/assets/proyek/proyek1.jpg";
+import Proyek1 from "/assets/proyek/proyek1.png";
 import Proyek2 from "/assets/proyek/proyek2.jpg";
 import Proyek3 from "/assets/proyek/proyek3.jpg";
 import Proyek4 from "/assets/proyek/proyek4.jpg";
 import Proyek5 from "/assets/proyek/proyek5.jpg";
-import Proyek6 from "/assets/proyek/proyek6.jpg";
+import Proyek6 from "/assets/proyek/proyek6.png";
 
 export const listProyek = [
   {
     id: 6,
     image: Proyek6,
     title: "AI-Powered CSV Importer",
-    subtitle: "A modern and interactive portfolio website designed to showcase...",
-    fullDescription:"A modern and interactive portfolio website designed to showcase my professional journey, projects and achievements. The platform provides visitors with an engaging overview of my work, highlights my capabilities through real-world projects, and serves as a central hub for networking and career opportunities.",
+    subtitle: "Designed to simplify the processing of diverse CSV files by using AI to...",
+    fullDescription:"Designed to simplify the processing of diverse CSV files by using AI to automatically identify, map, and transform lead data into a standardized CRM-ready format. It supports flexible data structures, validation, batch processing, and seamless integration for faster and more efficient lead management.",
     borderColor: "#10B981",
     gradient: "linear-gradient(180deg, #10B981, #000)",
     url: "https://github.com/Nithishkumar-Thinakaran/AI-csv-importer",
+    liveUrl: "https://groweasy-csv-importer.netlify.app/",
     dad: "600",
   },
   {
@@ -174,6 +175,7 @@ export const listProyek = [
     borderColor: "#3B82F6",
     gradient: "linear-gradient(145deg, #3B82F6, #000)",
     url: "https://github.com/Nithishkumar-Thinakaran/Visitor-pass-management-system",
+    liveUrl: "https://visitorpassport.netlify.app/login",
     dad: "100",
   },
   {
@@ -185,6 +187,7 @@ export const listProyek = [
     borderColor: "#3B82F6",
     gradient: "linear-gradient(145deg, #3B82F6, #000)",
     url: "https://github.com/Nithishkumar-Thinakaran/notes-app",
+    liveUrl: "https://note-apy.netlify.app/login",
     dad: "500",
   },
   {
