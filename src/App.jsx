@@ -107,31 +107,18 @@ function App() {
               className=" mb-6"
             />
             <div className="flex items-center sm:gap-4 gap-2">
-  <a 
-    href={`${import.meta.env.BASE_URL}CV.pdf`}
-    download="Nithishkumar_Thinakaran_CV.pdf"
-    className="font-semibold bg-[#1a1a1a] p-4 px-6 rounded-full border border-gray-700 hover:bg-[#222] transition-colors"
-  >
-    <ShinyText 
-      text="Download CV" 
-      disabled={false} 
-      speed={3} 
-      className="custom-class" 
-    />
-  </a>
+              <a 
+                href="/assets/CV.pdf" 
+                download="Nithishkumar_Thinakaran_CV.pdf" 
+                className="font-semibold bg-[#1a1a1a] p-4 px-6 rounded-full border border-gray-700 hover:bg-[#222] transition-colors"
+              >
+                <ShinyText text="Download CV" disabled={false} speed={3} className="custom-class" />
+              </a>
 
-  <a 
-    href="#project" 
-    className="font-semibold bg-[#1a1a1a] p-4 px-6 rounded-full border border-gray-700 hover:bg-[#222] transition-colors"
-  >
-    <ShinyText 
-      text="Explore My Projects" 
-      disabled={false} 
-      speed={3} 
-      className="custom-class" 
-    />
-  </a>
-</div>
+              <a href="#project" className="font-semibold bg-[#1a1a1a] p-4 px-6 rounded-full border border-gray-700 hover:bg-[#222] transition-colors">
+                <ShinyText text="Explore My Projects" disabled={false} speed={3} className="custom-class" />
+              </a>
+            </div>
 
           </div>
           <div className="md:ml-auto animate__animated animate__fadeInUp animate__delay-4s">
