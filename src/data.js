@@ -163,7 +163,7 @@ export const listProyek = [
     borderColor: "#10B981",
     gradient: "linear-gradient(180deg, #10B981, #000)",
     url: "https://github.com/Nithishkumar-Thinakaran/AI-csv-importer",
-    liveUrl: "https://groweasy-csv-importer.netlify.app/",
+    liveUrl: "https://ai-csv-importer.netlify.app/",
     dad: "600",
   },
   {
