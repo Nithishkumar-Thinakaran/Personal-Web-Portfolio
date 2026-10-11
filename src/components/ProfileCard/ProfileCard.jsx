@@ -46,7 +46,7 @@ const ProfileCardComponent = ({
   mobileTiltSensitivity = 5,
   miniAvatarUrl,  
   name = "Nithishkumar T",
-  title = "Software Engineer",
+  title = "Software Developer",
   contactText = "Contact",
   showUserInfo = flase,
   onContactClick,
