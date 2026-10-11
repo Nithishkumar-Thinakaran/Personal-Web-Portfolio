@@ -16,19 +16,20 @@ import 'aos/dist/aos.css'; // You can also use <link> for styles
 AOS.init();
 
 const experiences = [
+   {
+    title: "Associate Software Developer",
+    organization: "Crum & Forster Services India Private Limited",
+    duration: "Sep 2026 - Present",
+  },
   {
     title: "Web Development Intern",
     organization: "infotact solutions",
     duration: "May 2025 - Aug 2025",
-    description:
-      "Built MERN-based web applications with API and payment gateway integration."
   },
   {
     title: "Python Developer Intern",
     organization: "Shiash Info Solutions Private Limited",
     duration: "Dec 2024 - Feb 2025",
-    description:
-      "Developed Python-based web applications with database and backend integration."
   },
   
  
